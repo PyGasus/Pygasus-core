@@ -1,3 +1,3 @@
-# Pegasus Core
+# Pygasus Core
 
-System moitoring on Python
+System monitoring on Python
